@@ -7,7 +7,3 @@ require (
 	gorm.io/driver/sqlite v1.1.4
 	gorm.io/gorm v1.21.11
 )
-
-//replace (
-//	./user v0.0.0 => ./user
-//)
