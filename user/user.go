@@ -3,9 +3,9 @@ package user
 import (
 	"encoding/json"
 	"fmt"
-	"gorm.io/gorm"
 	"github.com/gorilla/mux"
 	"gorm.io/driver/sqlite"
+	"gorm.io/gorm"
 	"net/http"
 )
 
