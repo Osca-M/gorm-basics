@@ -1,4 +1,4 @@
-module github.com/Osca-M/gorm-basics
+module gorm-basics
 
 go 1.16
 
